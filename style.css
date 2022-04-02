@@ -1,0 +1,8 @@
+body{background-size: cover;}
+#note{width:100%;
+    font-size: 15px;
+    margin: 0px;}
+    Canvas{
+        border: 5px solid white;
+        border-radius: 20px;
+    }
